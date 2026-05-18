@@ -13,10 +13,7 @@
 # 💫 Sobre Mim
 
 💻 Desenvolvedor Backend apaixonado por criar sistemas escaláveis e eficientes.  
-🚀 Atualmente trabalhando com **[TECNOLOGIAS QUE VOCÊ USA]**  
-📚 Estudando **[TECNOLOGIAS/FERRAMENTAS]**  
-🎯 Focado em **[SEU OBJETIVO]**  
-⚡ Curiosidade: **[ALGUMA CURIOSIDADE SUA]**
+📚 Estudando **Análise e Desenvolvimento de Sistemas em Fatec Sorocaba**
 
 ---
 
@@ -36,6 +33,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   </div>
+  
 ## 🗄️ Banco de Dados
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -46,6 +44,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   </div>
+  
 ## Editores
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
